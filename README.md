@@ -1,6 +1,6 @@
 # landingpage-OnlineCoachingAgency
 # NuFit Wellness Circle – Kickoff Landing Page  
-**Conversion-optimized, AI-enhanced event page (client-owned) Click Below to checkout the page ! ![image](https://github.com/user-attachments/assets/844fea24-6751-4207-8754-060eef885c2a)
+**Conversion-optimized, AI-enhanced event page (client-owned) Click below to checkout the page !
 
 **
 
