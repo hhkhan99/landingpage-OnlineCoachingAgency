@@ -6,17 +6,6 @@
 
 ---
 
-## 📸 Preview
-
-<table>
-  <tr>
-    <td><img src="docs/hero-mobile.png" width="250" alt="Mobile preview"></td>
-    <td><img src="docs/hero-desktop.png" width="600" alt="Desktop preview"></td>
-  </tr>
-</table>
-
----
-
 ## 🔑 Why This Project Matters
 
 This site was built as a **real-world conversion funnel** for a client’s in-person fitness and coaching event. It showcases:
