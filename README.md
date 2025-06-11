@@ -12,7 +12,7 @@ This site was built as a **real-world conversion funnel** for a client’s in-pe
 
 | What I Solved | How It Shows Up |
 |---------------|-----------------|
-| 🔒 Performance | 100% inline CSS + optimized hero load + 99+ Lighthouse |
+| 🔒 Performance | 100% inline CSS + optimized hero load + 98+ Lighthouse |
 | 📱 Responsive Design | Mobile-first layout, fluid typography, tap-target sizing |
 | ♿ Accessibility | WCAG-AA contrast, keyboard friendly, clear headings |
 | 🧠 AI Integration | Used ChatGPT + Copilot for rapid dev & QA |
