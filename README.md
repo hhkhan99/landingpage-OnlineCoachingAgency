@@ -1,6 +1,7 @@
 # landingpage-OnlineCoachingAgency
 # NuFit Wellness Circle – Kickoff Landing Page  
-**Conversion-optimized, AI-enhanced event page (client-owned) Click Below to checkout the page ![image](https://github.com/user-attachments/assets/23e5f39c-153a-4168-8ac1-07f5b0098be5)
+**Conversion-optimized, AI-enhanced event page (client-owned) Click Below to checkout the page ! ![image](https://github.com/user-attachments/assets/844fea24-6751-4207-8754-060eef885c2a)
+
 **
 
 [![Live Demo](https://img.shields.io/badge/launch-site-green?style=for-the-badge)](https://thenufitummah.com/wellnesscircle)
