@@ -23,7 +23,7 @@ This site was built as a **real-world conversion funnel** for a client’s in-pe
 
 ## 🚀 Tech Stack (No Frameworks)
 
-- **Vanilla HTML/CSS/JS**
+- **HTML5/CSS3/Vanilla JS**
 - **IntersectionObserver** for animations
 - **Google Fonts** (display=swap)
 - **GoHighLevel** for hosting, domain + form
@@ -31,8 +31,6 @@ This site was built as a **real-world conversion funnel** for a client’s in-pe
 - **Lighthouse-tested** for performance & a11y
 
 ---
-
-## 🗂 Repo Contents
 
 ## 💡 Recruiter TL;DR
 
